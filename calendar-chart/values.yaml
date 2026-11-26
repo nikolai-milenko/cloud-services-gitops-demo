@@ -1,6 +1,6 @@
 # Default values for calendar-app.
 
-replicaCount: 3
+replicaCount: 2
 image:
   repository: ghcr.io/nikolai-milenko/cloud-services-gitops-demo/calendar-app
   tag: main
